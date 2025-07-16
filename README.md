@@ -1,12 +1,11 @@
 # 🌠 CelestAI – Generative Models for Astronomical Image Synthesis
 
 **ACM Research @ UT Dallas – Spring 2025**  
-My contribution: Built and compared **VAE** and **VQGAN** deep learning models to generate synthetic astronomical images using the [Multimodal Universe Dataset](https://huggingface.co/datasets/MultimodalUniverse/legacysurvey).
 ---
 
 ## 🔭 Project Overview
 
-To address data scarcity in astrophysical imaging, we explored how generative models like **Deep Convulutional GANs (DCGANs), StyleGANs, Variational Autoencoders (VAE), Vector Quantized GANs (VQGAN)** can synthesize high-fidelity images of galaxies and rare cosmic phenomena.
+To address data scarcity in astrophysical imaging, we explored how generative models like **Deep Convulutional GANs (DCGANs), StyleGANs, Variational Autoencoders (VAE), Vector Quantized GANs (VQGAN)** can synthesize high-fidelity images of galaxies and rare cosmic phenomena. My contribution: Built and compared **VAE** and **VQGAN** deep learning models to generate synthetic astronomical images using the [Multimodal Universe Dataset](https://huggingface.co/datasets/MultimodalUniverse/legacysurvey).
 
 ---
 
