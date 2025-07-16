@@ -1,0 +1,6 @@
+tensorflow
+datasets
+numpy
+matplotlib
+pillow
+scipy
