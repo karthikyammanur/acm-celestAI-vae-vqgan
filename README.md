@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Team
 
-Jagadeep Kalluri
-Karthik Yammanur
-Hrishikesh Naveenam
+Jagadeep Kalluri,
+Karthik Yammanur,
+Hrishikesh Naveenam,
 Shaheem Jaleel
