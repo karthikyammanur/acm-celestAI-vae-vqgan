@@ -34,12 +34,10 @@ To address data scarcity in astrophysical imaging, we explored how generative mo
 ## 🖼️ Research Poster
 
 <p align="center">
-  <img src="assets/poster.png" alt="Poster" width="600"/>
+  <img src="assets/CelestAI_final_poster.png" alt="Poster" width="600"/>
 </p>
 
-
-<img width="1430" height="1069" alt="CelestAI_final_poster" src="https://github.com/user-attachments/assets/70b11c02-9edb-4c03-b32a-e6effd367950" />
-[📄 Full Poster Download](assets/poster.png)
+[📄 Full Poster Download](assets/CelestAI_final_poster.png)
 
 ---
 
